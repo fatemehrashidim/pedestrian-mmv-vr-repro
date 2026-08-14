@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper and this repository."
+title: "Reproducibility repository: Pedestrian behaviour when interacting with micro-mobility vehicles: a virtual reality experiment"
+authors:
+  - family-names: "Rashidi"
+    given-names: "Fatemeh"
+    affiliation: "Energy & Mobility Laboratory (EMob-Lab), ENTPE, University Gustave Eiffel, Lyon, France"
+  - family-names: "Leclercq"
+    given-names: "Ludovic"
+    affiliation: "Energy & Mobility Laboratory (EMob-Lab), ENTPE, University Gustave Eiffel, Lyon, France"
+  - family-names: "Merat"
+    given-names: "Natasha"
+    affiliation: "Institute for Transport Studies, University of Leeds, UK"
+  - family-names: "Lee"
+    given-names: "Yee Mun"
+    affiliation: "Institute for Transport Studies, University of Leeds, UK"
+  - family-names: "Chao"
+    given-names: "Hsuan"
+    affiliation: "Institute for Transport Studies, University of Leeds, UK"
+  - family-names: "Varotto"
+    given-names: "Silvia F."
+    affiliation: "Energy & Mobility Laboratory (EMob-Lab), ENTPE, University Gustave Eiffel, Lyon, France"
+version: "1.0.0"
+date-released: "2026-08-14"
+license: MIT
+keywords:
+  - pedestrian behaviour
+  - micro-mobility
+  - virtual reality
+  - linear mixed-effects models
+  - reproducibility
+
