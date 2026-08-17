@@ -70,8 +70,8 @@ Each script sources `R/00_setup.R` and `R/utils.R` automatically.
 
 | Script | Paper element |
 |---|---|
-| `01_descriptives.R` | Participant summary; Table 1 (descriptive statistics) |
-| `02_subjective_ratings.R` | Table 2 (subjective ratings; Mann–Whitney U tests) |
+| `01_descriptives.R` | Participant summary; descriptive statistics |
+| `02_subjective_ratings.R` | subjective ratings; Mann–Whitney U tests |
 | `03_lateral_clearance.R` | Lateral-clearance LMM tables; `senslateral.png`, `continuous_lateral.png` |
 | `04_longitudinal_distance.R` | Longitudinal-distance Wilcoxon table |
 | `05_average_speed.R` | Average-speed LMM tables; `sensspeed.png` |
