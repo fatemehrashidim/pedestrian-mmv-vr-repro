@@ -15,6 +15,7 @@ minimum TTC), and the participant-level paired Wilcoxon signed-rank tests
 ```
 .
 ├── README.md                        This file
+├── LICENSE                          Licensing (MIT)
 ├── CITATION.cff                     How to cite this repository
 ├── .gitignore
 ├── data/
